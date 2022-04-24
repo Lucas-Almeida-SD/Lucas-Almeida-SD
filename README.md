@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./imgs/Lucas-Avatar.png" alt="Avatar de Lucas Almeida" style="border-radius:100px; width:150px;" />
+  <a href="http://animemood.com/">
+    <img src="./imgs/Lucas-Avatar.png" alt="Avatar de Lucas Almeida" style="border-radius:100px; width:150px;" />
+  </a>
   <h1>Olá, eu sou Lucas Almeida &#128075;&#127995;</h1>
   <p>Sou graduado em engenharia elétrica e atualmente sou estudante de Desenvolvimento Web na escola Trybe.</p>
 </div>
