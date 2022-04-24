@@ -1,4 +1,8 @@
-## Olá, eu sou Lucas Almeida
+<div align="center">
+  <img src="./imgs/Lucas-Avatar.png" alt="Avatar de Lucas Almeida" style="border-radius:100px; width:150px;" />
+  <h2>Olá, eu sou Lucas Almeida &#128075;&#127995;</h2>
+  <p>Sou graduado em engenharia elétrica e atualmente sou estudante de Desenvolvimento Web na escola Trybe.</p>
+</div>
 
 <div align="center">
   <a href="https://github.com/lucas-almeida-sd">
