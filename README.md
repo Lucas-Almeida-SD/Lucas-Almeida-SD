@@ -3,7 +3,7 @@
     <img src="./imgs/Lucas-Avatar.png" alt="Avatar de Lucas Almeida" style="border-radius:100px; width:150px;" />
   </a>
   <h1>Olá, eu sou Lucas Almeida &#128075;&#127995;</h1>
-  <p>Sou graduado em engenharia elétrica e atualmente sou estudante de Desenvolvimento Web na escola Trybe.</p>
+  <p>Sou Desenvolvedor Web Full Stack formado pela Trybe, no qual tive uma experiência incrível durante o curso. Os desafios foram grandes, mas superados com grande determinação, foco e resiliência. Passei pelos módulo de Fundamentos do Desenvolvimento Web, Desenvolvimento Front-End e Desenvolvimento Back-End, no qual foram desenvolvidos diversos projetos do curso e pessoais que podem ser encontrados nos meus repositórios. E não acaba por aí...atualmente estou iniciando o módulo de Ciência de Dados.</p>
 </div>
 
 <div align="center">
